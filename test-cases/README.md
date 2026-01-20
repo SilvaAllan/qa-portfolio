@@ -25,3 +25,4 @@ For project management and traceability, I used **Jira**, applying Agile concept
 * **Traceability:** Each Test Case is linked as a subtask to its respective User Story, ensuring 100% requirements coverage.
 
 ![Jira Board & User Stories](jira-backlog-story1.png)
+![Jira Board & User Stories](jira-backlog-story2.png)
