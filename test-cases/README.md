@@ -14,6 +14,6 @@ The complete set of test cases covers:
 * **UI/UX Validation:** Verification of error messages and visual indicators (red borders).
 
 ### Preview:
-![Test Cases Spreadsheet](planilha-casos-teste.png)
+![Test Cases Spreadsheet](spreadsheet-test-cases.png)
 
 > 🔗 [Click here to open the Spreadsheet file](./seu-arquivo.xlsx)
