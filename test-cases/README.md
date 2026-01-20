@@ -17,3 +17,11 @@ The complete set of test cases covers:
 ![Test Cases Spreadsheet](spreadsheet-test-cases.png)
 
 > 🔗 [Click here to open the Spreadsheet file](./test-cases-Login.pdf)
+
+## ⚙️ Test Management & Methodology
+For project management and traceability, I used **Jira**, applying Agile concepts (Scrum).
+
+* **User Stories:** Defined with clear acceptance criteria (AC).
+* **Traceability:** Each Test Case is linked as a subtask to its respective User Story, ensuring 100% requirements coverage.
+
+![Jira Board & User Stories](caminho-da-sua-imagem.png)
