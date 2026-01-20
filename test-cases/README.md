@@ -16,4 +16,4 @@ The complete set of test cases covers:
 ### Preview:
 ![Test Cases Spreadsheet](spreadsheet-test-cases.png)
 
-> 🔗 [Click here to open the Spreadsheet file](./test-cases-Login.xlsx)
+> 🔗 [Click here to open the Spreadsheet file](./test-cases-Login.pdf)
